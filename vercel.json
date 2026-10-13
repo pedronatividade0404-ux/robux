@@ -1,0 +1,5 @@
+{
+  "functions": {
+    "api/send-proof.py": { "maxDuration": 10 }
+  }
+}
